@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1920512419/app_review.iml" filepath="$PROJECT_DIR$/.idea/modules/-1920512419/app_review.iml" group="android/app_review" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/513705273/audio_session.iml" filepath="$PROJECT_DIR$/.idea/modules/513705273/audio_session.iml" group="android/audio_session" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2073967103/flutter_compass.iml" filepath="$PROJECT_DIR$/.idea/modules/2073967103/flutter_compass.iml" group="android/flutter_compass" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1796078809/flutter_local_notifications.iml" filepath="$PROJECT_DIR$/.idea/modules/-1796078809/flutter_local_notifications.iml" group="android/flutter_local_notifications" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/85992603/flutter_qiblah.iml" filepath="$PROJECT_DIR$/.idea/modules/85992603/flutter_qiblah.iml" group="android/flutter_qiblah" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-924648327/flutter_restart.iml" filepath="$PROJECT_DIR$/.idea/modules/-924648327/flutter_restart.iml" group="android/flutter_restart" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1510448274/geolocator.iml" filepath="$PROJECT_DIR$/.idea/modules/1510448274/geolocator.iml" group="android/geolocator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-392424943/hexcolor.iml" filepath="$PROJECT_DIR$/.idea/modules/-392424943/hexcolor.iml" group="android/hexcolor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/551057069/just_audio.iml" filepath="$PROJECT_DIR$/.idea/modules/551057069/just_audio.iml" group="android/just_audio" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1035118821/package_info.iml" filepath="$PROJECT_DIR$/.idea/modules/-1035118821/package_info.iml" group="android/package_info" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-942875686/path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/-942875686/path_provider.iml" group="android/path_provider" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1181166225/url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/-1181166225/url_launcher.iml" group="android/url_launcher" />
+    </modules>
+  </component>
+</project>
