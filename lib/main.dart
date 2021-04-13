@@ -7,6 +7,7 @@ import 'package:Nimaz_App_Demo/Screens/MainPage/MainScreen.dart';
 import 'package:get/get.dart';
 
 void main() {
+
   MainPageBindings().dependencies();
   QuranBinding().dependencies();
   QiblaBindings().dependencies();
